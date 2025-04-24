@@ -30,5 +30,6 @@ public class Main {
         for (Empleado e : empleados){
             e.mostrar_informacion();
         }
+        System.out.printf("HOLA, PROBANDO");
     }
 }

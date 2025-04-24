@@ -21,5 +21,7 @@ public class Empleado {
         System.out.println("Cargo: "+cargo);
         System.out.println("Salario: "+salario);
         System.out.println("Fecha de ingreso a la empresa: "+dia+"/"+mes+"/"+anio);
+
     }
+
 }
